@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align=center>
   2022년 7월:herb:<br />
   좋은 개발자가 되기 위해 도전합니다.<br />
