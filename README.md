@@ -1,3 +1,6 @@
+<h3 align=center>Positive & Passionate</h3>
+<h1 align=center>HeyBobbieSinger :purple_heart:</h1>
+
 <p align=center>
   2022년 7월:herb:<br />
   좋은 개발자가 되기 위해 도전합니다.<br />
