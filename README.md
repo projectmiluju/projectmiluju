@@ -31,6 +31,6 @@
 
 <h2 align=center>Contacts :sparkles:</h2>
 <div align=center>
-  <a href="https://www.instagram.com/project.miluju/" target="_blank"><img src="https://img.shields.io/badge/@dev___yoo-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/></a>
-  <a href="mailto:project.miluju@gmail.com"><img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/project.miluju/" target="_blank"><img src="https://img.shields.io/badge/project.miluju-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/></a>
+  <a href="mailto:project.miluju@gmail.com"><img src="https://img.shields.io/badge/project.miluju@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
