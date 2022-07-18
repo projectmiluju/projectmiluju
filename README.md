@@ -10,6 +10,7 @@
 
 <h2 align=center>Skills :sparkles:</h2>
 <h3 align=center>Languages & Platforms</h3>
+
 <p align=center>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
