@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/{뱃지이름}-{코드}?style=flat-square&logo={로고이름}&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 ### Hi there 👋
 
 <!--
