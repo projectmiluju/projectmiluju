@@ -1,7 +1,7 @@
 <h1 align=center>HeyBobbieSinger</h1>
 
 <p align=center>
-드문 이야기를 씁니다.
+드문 이야기를 씁니다.    
 드물지만 드물지 않은 그런 드문 이야기를 쓰는 개발자 입니다.
   .<br />
   <br />
