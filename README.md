@@ -42,7 +42,7 @@
 
 <h2 align=center>Github Stats :sparkles:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=projectmiluju)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align=center>Contacts :sparkles:</h2>
 <div align=center>
