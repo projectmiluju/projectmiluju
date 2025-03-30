@@ -41,9 +41,7 @@
 </p>
 
 <h2 align=center>Github Stats :sparkles:</h2>
-<center>
 [![trophy](https://github-profile-trophy.vercel.app/?username=projectmiluju&rank=-C,-?&margin-w=35&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</center>
 
 
 <h2 align=center>Contacts :sparkles:</h2>
