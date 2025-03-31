@@ -51,5 +51,5 @@
 <h2 align=center>Contacts :sparkles:</h2>
 <div align=center>
   <a href="mailto:project.miluju@gmail.com"><img src="https://img.shields.io/badge/project.miluju@gmail.com-4285F4?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://projectmiluju.github.io/"><img src="https://img.shields.io/badge/Devlog-#222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://projectmiluju.github.io/"><img src="https://img.shields.io/badge/Devlog-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </div>
