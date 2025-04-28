@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 <p align=center>
-  <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=Intellij_IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
 </p>
 <p align=center>
@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p>
 <p align=center>
-  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white">
-  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
-  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon_AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=Amazon_RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon_EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=Amazon_S3&logoColor=white">
 </p>
 
 <h2 align=center>Github Stats :sparkles:</h2>
