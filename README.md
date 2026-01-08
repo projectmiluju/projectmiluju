@@ -48,12 +48,12 @@
 
 ## 📊 Growth Record
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8" height="165" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=onedark&no-frame=true&margin-w=15&column=6&rank=SSS,SS,S,A" />
+  <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=onedark&no-frame=true&margin-w=15&column=6" alt="trophy" />
 </p>
 
 <br/>
