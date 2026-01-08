@@ -1,92 +1,64 @@
-<!-- ───────────────────────────── -->
-<!--  HeyBobbieSinger · Profile    -->
-<!-- ───────────────────────────── -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B1220&height=190&section=header&text=HeyBobbieSinger&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=드문%20이야기를%20씁니다.%20%7C%20Web%20Service%20Planner%20%26%20Developer&descAlignY=60&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Archivist%20of%20Rare%20Stories&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=35&desc=드물지만%20드물지%20않은,%20그런%20이야기를%20코드로%20씁니다.&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
-  <a href="mailto:project.miluju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-project.miluju@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://projectmiluju.github.io/">
-    <img src="https://img.shields.io/badge/Devlog-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rare_Archive-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <a href="https://github.com/projectmiluju">
-    <img src="https://img.shields.io/badge/GitHub-projectmiluju-0B1220?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>드물지만 드물지 않은, 그런 드문 이야기를 코드로 씁니다.</b><br/>
-  기획부터 구현까지, 사용자 경험과 시스템의 안정성을 함께 챙기는 개발자.
-</p>
-
-<br/>
-
-## 🧭 Now
-- 서비스 구조를 **명확하게 설계하고**, 끝까지 **완성도 있게 구현**하는 걸 좋아합니다.
-- 백엔드/인프라도 좋아하지만, 프론트엔드도 **포기하지 않는** 밸런스를 지향합니다.
-- 블로그에는 **CS 정리 / 개발 서적 정리 / 트러블슈팅**을 기록합니다.
-
-<br/>
-
-## ⚙️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MariaDB-111827?style=for-the-badge&logo=mariadb&logoColor=003545" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/EC2-111827?style=for-the-badge&logo=amazonec2&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/RDS-111827?style=for-the-badge&logo=amazonrds&logoColor=527FFF" />
-  <img src="https://img.shields.io/badge/S3-111827?style=for-the-badge&logo=amazons3&logoColor=569A31" />
-</p>
-
-<br/>
-
-## 🧩 Featured Projects
-
-| Project | What I did | Stack | Link |
-|---|---|---|---|
-| **PROJECT 01** | 기획 · API 설계 · 핵심 기능 구현 | Spring Boot, MySQL, AWS | https://github.com/projectmiluju/YOUR_REPO_1 |
-| **PROJECT 02** | UI/UX · 상태관리 · API 연동 | React, JS, CSS | https://github.com/projectmiluju/YOUR_REPO_2 |
-| **PROJECT 03** | 운영/배포 · 자동화 · 모니터링(선택) | AWS, CI/CD | https://github.com/projectmiluju/YOUR_REPO_3 |
-
-<br/>
-
-## 📈 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0B1220&title_color=ffffff&text_color=E5E7EB&icon_color=22C55E" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=projectmiluju&hide_border=true&background=0B1220&ring=22C55E&fire=22C55E&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=ffffff&sideNums=ffffff" height="160" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=onedark&no-frame=true&margin-w=10&column=6" />
+  <a href="mailto:project.miluju@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<div align="center">
+  <h3>🖋️ Web Service Planner & Full-stack Developer</h3>
+  <p>기획의 <b>명확함</b>과 구현의 <b>완성도</b> 사이의 간극을 좁히는 것을 즐깁니다.<br/>
+  단순한 기능을 넘어 사용자의 기억에 남는 시스템을 지향합니다.</p>
+</div>
+
 <br/>
 
-## ✉️ Contact
+## 🧭 Perspective
+* **Architecture:** 서비스의 구조를 설계할 때 확장성과 안정성의 밸런스를 가장 중요하게 생각합니다.
+* **Tech Blog:** [Rare Archive](https://projectmiluju.github.io/blog/)를 통해 CS 지식, 서적 요약, 트러블슈팅을 기록하며 지식을 공유합니다.
+* **Philosophy:** 코드는 드문 이야기를 담는 그릇이며, 그 그릇은 견고하고 아름다워야 한다고 믿습니다.
+
+<br/>
+
+## 🛠 Tech Stack
+
+### 🏗️ Backend & Infrastructure
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" /> <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+
+### 🎨 Frontend & Design
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+<br/>
+
+## 🧩 Portfolio Showcase
+
+| Project | Focus | Technical Strength | Link |
+|:---|:---|:---|:---:|
+| **Rare Storage** | 기획 & 인프라 설계 | **Spring Boot / S3 / RDS** | [View](https://github.com/projectmiluju) |
+| **UX Archiving** | UI/UX & 상태관리 | **React / Framer Motion** | [View](https://github.com/projectmiluju) |
+| **CI/CD Pipeline** | 배포 자동화 | **Github Actions / Docker** | [View](https://github.com/projectmiluju) |
+
+<br/>
+
+## 📊 Growth Record
 <p align="center">
-  <a href="mailto:project.miluju@gmail.com"><img src="https://img.shields.io/badge/project.miluju@gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
-  <a href="https://projectmiluju.github.io/"><img src="https://img.shields.io/badge/Devlog-111827?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="150" />
 </p>
 
 <p align="center">
-  <sub>“I write rare stories in code.”</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=onedark&no-frame=true&margin-w=15&column=6&rank=SSS,SS,S,A" />
 </p>
 
-<!-- ───────────────────────────── -->
+<br/>
+
+<div align="center">
+  <p><sub>"I write rare stories in code, making the invisible visible."</sub></p>
+  <a href="mailto:project.miluju@gmail.com"><img src="https://img.shields.io/badge/project.miluju@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white"></a>
+</div>
