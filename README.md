@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://projectmiluju.github.io/">
-    <img src="https://img.shields.io/badge/Rare_Archive-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/DevBlog-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="mailto:project.miluju@gmail.com">
     <img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -21,7 +21,7 @@
 
 ## 🧭 Perspective
 * **Architecture:** 서비스의 구조를 설계할 때 확장성과 안정성의 밸런스를 가장 중요하게 생각합니다.
-* **Tech Blog:** [Rare Archive](https://projectmiluju.github.io/blog/)를 통해 CS 지식, 서적 요약, 트러블슈팅을 기록하며 지식을 공유합니다.
+* **Tech Blog:** [블로그](https://projectmiluju.github.io/blog/)를 통해 CS 지식, 서적 요약, 트러블슈팅을 기록하며 지식을 공유합니다.
 * **Philosophy:** 코드는 드문 이야기를 담는 그릇이며, 그 그릇은 견고하고 아름다워야 한다고 믿습니다.
 
 <br/>
@@ -49,19 +49,20 @@
 ## 📊 Growth Record
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&display_format=adaptive&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&include_all_commits=true&count_private=true&v=2" height="165" alt="stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff&v=2" height="165" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectmiluju&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&langs_count=6" height="165" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectmiluju&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&langs_count=6&v=2" height="165" alt="top langs" />
 </p>
 
 <br/>
 
 ## 📈 Activity Archive
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=projectmiluju&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=projectmiluju&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true&v=2" width="100%" />
 </p>
 
 <br/>
