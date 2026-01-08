@@ -144,16 +144,10 @@
 
 <br/>
 
-## 📊 Growth Record
+## 🏆 Growth Record
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&include_all_commits=true&count_private=true&v=2" height="165" alt="stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff&v=2" height="165" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectmiluju&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&langs_count=6&v=2" height="165" alt="top langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies" />
 </p>
 
 <br/>
