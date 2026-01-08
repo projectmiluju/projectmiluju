@@ -47,13 +47,21 @@
 <br/>
 
 ## 📊 Growth Record
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=projectmiluju&show_icons=true&hide_border=true&display_format=adaptive&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&count_private=true" height="165" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=projectmiluju&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=f8fafc&sideLabels=f8fafc&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" height="165" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=onedark&no-frame=true&margin-w=15&column=6" alt="trophy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projectmiluju&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f8fafc&langs_count=6" height="165" alt="top langs" />
+</p>
+
+<br/>
+
+## 📈 Activity Archive
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=projectmiluju&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 <br/>
