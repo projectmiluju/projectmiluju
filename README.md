@@ -147,7 +147,7 @@
 ## 🏆 Growth Record
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=projectmiluju&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=projectmiluju&rank=-?&theme=algolia&no-frame=true&no-bg=true" alt="trophies" />
 </p>
 
 <br/>
