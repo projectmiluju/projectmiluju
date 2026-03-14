@@ -147,7 +147,7 @@
 ## 🏆 Growth Record
 
 <p align="center">
-  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=projectmiluju&rank=-?&theme=algolia&no-frame=true&no-bg=true" alt="trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=projectmiluju&rank=-?&theme=algolia&no-frame=true&no-bg=true" alt="trophies" />
 </p>
 
 <br/>
