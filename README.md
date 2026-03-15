@@ -20,6 +20,8 @@
 > PDF·이미지·노트를 하나의 무한 캔버스 위에서 연결해 리서치 흐름을 정리합니다.
 > Notion보다 더 공간적으로, Figma보다 더 문서 친화적으로.
 
+[CastCanvas Lab Page](https://castcanvaslab.com/)
+
 <p>
   <img src="https://img.shields.io/badge/Java_17-0f172a?style=flat-square&logo=openjdk&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Spring_Boot_3.5-0f172a?style=flat-square&logo=springboot&logoColor=f8fafc" />
@@ -31,7 +33,7 @@
   <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=f8fafc" />
 </p>
 
-[BE](https://github.com/projectmiluju/cast-canvas-lab-be) · [FE](https://github.com/projectmiluju/cast-canvas-lab-fe) · [Collab](https://github.com/projectmiluju/cast-canvas-lab-collab) · [Site](https://github.com/projectmiluju/cast-canvas-lab-site)
+[Orchestrator](https://github.com/projectmiluju/cast-canvas-lab-orchestrator) · [BE](https://github.com/projectmiluju/cast-canvas-lab-be) · [FE](https://github.com/projectmiluju/cast-canvas-lab-fe) · [Collab](https://github.com/projectmiluju/cast-canvas-lab-collab) · [Site](https://github.com/projectmiluju/cast-canvas-lab-site)
 
 <br/>
 
