@@ -52,19 +52,24 @@
 **Backend**
 <p>
   <img src="https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/Kotlin-0f172a?style=flat-square&logo=kotlin&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=flat-square&logo=springboot&logoColor=f8fafc" />
-  <img src="https://img.shields.io/badge/Spring_Security-0f172a?style=flat-square&logo=springsecurity&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/Spring_Security_+_JWT-0f172a?style=flat-square&logo=springsecurity&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/JPA_/_QueryDSL-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-0f172a?style=flat-square&logo=swagger&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Elasticsearch-0f172a?style=flat-square&logo=elasticsearch&logoColor=f8fafc" />
 </p>
 
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Zustand-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/TanStack_Query-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/SCSS-0f172a?style=flat-square&logo=sass&logoColor=f8fafc" />
@@ -74,23 +79,32 @@
 **Realtime · Collab**
 <p>
   <img src="https://img.shields.io/badge/NestJS-0f172a?style=flat-square&logo=nestjs&logoColor=f8fafc" />
-  <img src="https://img.shields.io/badge/WebSocket-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSocket_/_STOMP-0f172a?style=flat-square" />
   <img src="https://img.shields.io/badge/Yjs-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/STOMP-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Monaco_Editor-0f172a?style=flat-square" />
+</p>
+
+**AI**
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=flat-square" />
 </p>
 
 **DevOps**
 <p>
-  <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square&logo=amazonaws&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/AWS_(EC2·S3·RDS·CloudFront)-0f172a?style=flat-square&logo=amazonaws&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/Terraform-0f172a?style=flat-square&logo=terraform&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Nginx-0f172a?style=flat-square&logo=nginx&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0f172a?style=flat-square&logo=githubactions&logoColor=f8fafc" />
+  <img src="https://img.shields.io/badge/Prometheus_/_Grafana-0f172a?style=flat-square&logo=prometheus&logoColor=f8fafc" />
 </p>
 
 **Exploring**
 <p>
   <img src="https://img.shields.io/badge/Kafka-0f172a?style=flat-square&logo=apachekafka&logoColor=f8fafc" />
-  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Spring_Batch-0f172a?style=flat-square" />
 </p>
 
