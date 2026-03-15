@@ -20,8 +20,6 @@
 > PDF·이미지·노트를 하나의 무한 캔버스 위에서 연결해 리서치 흐름을 정리합니다.
 > Notion보다 더 공간적으로, Figma보다 더 문서 친화적으로.
 
-[CastCanvas Lab Page](https://castcanvaslab.com/)
-
 <p>
   <img src="https://img.shields.io/badge/Java_17-0f172a?style=flat-square&logo=openjdk&logoColor=f8fafc" />
   <img src="https://img.shields.io/badge/Spring_Boot_3.5-0f172a?style=flat-square&logo=springboot&logoColor=f8fafc" />
@@ -33,7 +31,7 @@
   <img src="https://img.shields.io/badge/Redis-0f172a?style=flat-square&logo=redis&logoColor=f8fafc" />
 </p>
 
-[Orchestrator](https://github.com/projectmiluju/cast-canvas-lab-orchestrator) · [BE](https://github.com/projectmiluju/cast-canvas-lab-be) · [FE](https://github.com/projectmiluju/cast-canvas-lab-fe) · [Collab](https://github.com/projectmiluju/cast-canvas-lab-collab) · [Site](https://github.com/projectmiluju/cast-canvas-lab-site)
+[BE](https://github.com/projectmiluju/cast-canvas-lab-be) · [FE](https://github.com/projectmiluju/cast-canvas-lab-fe) · [Collab](https://github.com/projectmiluju/cast-canvas-lab-collab) · [Site](https://github.com/projectmiluju/cast-canvas-lab-site)
 
 <br/>
 
@@ -41,8 +39,8 @@
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
+| **Grovarc** | 개발자 성장 기록 & AI 회고/리포트 자동화 서비스 | Kotlin · Next.js · FastAPI · LangGraph · K8s | [→](https://github.com/projectmiluju/grovarc) |
 | **DDOK** | 지도 기반 프로젝트·스터디 매칭 & 팀 협업 플랫폼 (팀장) | Spring Boot · React · Redis · AWS | [→](https://github.com/DeepDirect/ddok-be) |
-| **DeepWebIDE** | Monaco Editor 기반 실시간 협업 웹 IDE | Spring Boot · Yjs · WebSocket | [→](https://github.com/projectmiluju/deepwebide-be) |
 | **astro-terminal-portfolio** | 터미널 UI 스타일 Astro 포트폴리오 템플릿 | Astro | [→](https://github.com/projectmiluju/astro-terminal-portfolio-template) |
 
 <br/>
@@ -100,6 +98,13 @@
 
 <p align="center">
   <img src="https://gh-trophy.cdnsoft.net/?username=projectmiluju&title=-Stars&theme=algolia&no-frame=true&no-bg=true" alt="trophies" />
+</p>
+
+<br/>
+
+## 📈 Activity Archive
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=projectmiluju&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true&v=2" width="100%" />
 </p>
 
 <br/>
