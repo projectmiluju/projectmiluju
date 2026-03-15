@@ -102,13 +102,6 @@
 
 <br/>
 
-## 📈 Activity Archive
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=projectmiluju&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true&v=2" width="100%" />
-</p>
-
-<br/>
-
 <div align="center">
   <p><sub>"드물지만 드물지 않은, 그런 드문 이야기를 코드로 씁니다."</sub></p>
 </div>
