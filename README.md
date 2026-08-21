@@ -113,7 +113,7 @@
 ## 🏆 Growth Record
 
 <p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=projectmiluju&title=-Stars&theme=algolia&no-frame=true&no-bg=true" alt="trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=projectmiluju&title=-Stars&theme=algolia&no-frame=true&no-bg=true" alt="trophies" />
 </p>
 
 <br/>
